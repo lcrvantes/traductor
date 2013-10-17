@@ -1,0 +1,95 @@
+body
+{
+	margin: 0;
+	padding: 0;
+}
+footer
+{
+	background: #4CA7D0;
+	color: white;
+	display: inline-block;
+	padding: 1em 0;
+	width: 100%;
+}
+header
+{
+	background: #4CA7D0;
+	color: white;
+	margin: 0;
+	padding: 0;
+}
+header figure 
+{
+	float: left;
+}
+header h1
+{
+	font-size: 20px;
+	font-weight: normal;
+	margin: 1em;
+	display: inline-block;
+	text-align: center;
+}
+header #logo img
+{
+	width: 40px;
+}
+.menu
+{
+	background: #CDCDCD;
+	font-size: 0.9em;
+}
+.menu ul
+{
+	list-style: none;
+	margin: 0.2em;
+	padding: 0;
+}
+.menu ul li 
+{
+	display: inline-block;
+	margin: 0 1.2em 0;
+	vertical-align: top;
+}
+.menu ul li a
+{
+	color: white;
+	display: block;
+	margin: 0;
+	padding: 0.5em 0;
+	text-decoration: none;
+}
+.area_texto_espanol
+{
+	margin: 0.5em;
+}
+.barra
+{
+	width: 50%;
+	position: relative;
+	padding: 0;
+	margin: 0.5em;
+}
+.barra p
+{
+	display: inline-block;
+	text-align: left;
+	width: 50%;
+	font-size: 1.4em;
+	vertical-align: top;
+	margin: 0.5em 0;
+}
+.barra figure
+{
+	display: inline-block;
+	width: 40px;
+	margin: 0;
+}
+.barra figure img
+{
+	width: 100%;
+}
+.area_texto_espanol #textarea
+{
+	resize:none;
+}
